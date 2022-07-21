@@ -1,0 +1,5 @@
+echo "First number : $1"
+echo "Second number : $2"
+echo "Third number : $3"
+echo "Fourth number : $4"
+echo "Fifth number : $5"
